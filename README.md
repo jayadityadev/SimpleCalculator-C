@@ -82,7 +82,7 @@ Exiting the program.
 
 ## Contributing
 
-Contributions are welcome! If you would like to improve this WeatherApp, please follow these steps:
+Contributions are welcome! If you would like to improve this program, please follow these steps:
 
 1. Fork the repository.
    
