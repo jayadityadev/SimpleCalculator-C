@@ -41,7 +41,7 @@ int main() {
             else if (operator == '/') {
                 if (num2 != 0) {
                     float quotient = (float)num1 / num2;
-                    printf("\nThe quotient of %d and %d is %f.", num1, num2, quotient);
+                    printf("\nThe quotient of %d and %d is %.3f.", num1, num2, quotient);
                 } else {
                     printf("\nError: Division by zero is not allowed.");
                 }
